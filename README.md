@@ -1,9 +1,7 @@
 # Yireo Theme optimizations
 
 ### General changes
-- Upgrade to jQuery 3 and corresponding jQuery UI & jQuery Migrate
-- Upgrade to Knockout 3.5.0
-- Upgrade to Require 2.3.6
+- See https://github.com/yireo-training/magento2-example-jquery-upgrade
 
 ### RequireJS configuration `requirejs-config.js`
 - Skip `datepicker` and `color-picker` in Knockout bindings

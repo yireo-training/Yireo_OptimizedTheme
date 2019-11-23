@@ -5,20 +5,7 @@ var config = {
         }
     },
     paths: {
-        'mage/calendar': 'js/zero',
-        'jquery/patches/jquery': 'js/zero',
-
-    },
-    config: {
-        mixins: {
-            jquery: {
-                'jquery/patches/jquery': false
-            }
-        }
+        'mage/calendar': 'js/zero'
     },
     skipDataMain: true
 };
-
-require(['jquery'], function($) {
-    $.migrateMute = true;
-});
