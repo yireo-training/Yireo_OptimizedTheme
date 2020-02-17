@@ -35,7 +35,7 @@ define(function (require) {
         staticChecked:  require('Magento_Ui/js/lib/knockout/bindings/staticChecked'),
         simpleChecked:  require('Magento_Ui/js/lib/knockout/bindings/simple-checked'),
         bindHtml:       require('Magento_Ui/js/lib/knockout/bindings/bind-html'),
-        tooltip:        require('Magento_Ui/js/lib/knockout/bindings/tooltip'),
+        //tooltip:        require('Magento_Ui/js/lib/knockout/bindings/tooltip'),
         repeat:         require('knockoutjs/knockout-repeat'),
         fastForEach:    require('knockoutjs/knockout-fast-foreach'),
         //colorPicker:    require('Magento_Ui/js/lib/knockout/bindings/color-picker')

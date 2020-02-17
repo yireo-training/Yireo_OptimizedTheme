@@ -5,7 +5,9 @@ var config = {
         }
     },
     paths: {
-        'mage/calendar': 'js/zero'
+        'mage/calendar': 'js/zero',
+        'Magento_Ui/js/grid/filters/range': 'js/zero',
+        'mage/polyfill': 'js/zero'
     },
     skipDataMain: true
 };
