@@ -2,10 +2,12 @@
 
 ### General changes
 - See https://github.com/yireo-training/magento2-example-jquery-upgrade
+- Upgrade underscore to 1.10.2
 
 ### RequireJS configuration `requirejs-config.js`
 - Skip `datepicker` and `color-picker` in Knockout bindings
 - Remove `calendar.js`
+- Remove jQuery Migrate
 
 ### File `Magento_Theme/layout/default.xml`
 - Remove unneeded `calendar.css` and `gallery.css`
