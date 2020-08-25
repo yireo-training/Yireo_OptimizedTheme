@@ -5,6 +5,8 @@ var config = {
         }
     },
     paths: {
+        'knockoutjs/knockout-fast-foreach': 'js/zero',
+        'knockoutjs/knockout-es5': 'js/zero',
         'mage/calendar': 'js/zero',
         'Magento_Ui/js/grid/filters/range': 'js/zero',
         'mage/polyfill': 'js/zero',
