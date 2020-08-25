@@ -13,7 +13,7 @@ var config = {
         //'mage/menu': 'js/zero', // Enable if you have a CSS menu
         'mage/translate-inline': 'js/zero',
         'Magento_Captcha/js/model/captcha': 'js/zero',
-        'jquery/jquery-migrate': 'js/zero',
+        //'jquery/jquery-migrate': 'js/zero', // This breaks the JS-driven menu currently
         'Magento_Ui/js/lib/logger/logger': 'js/zero',
         'Magento_Ui/js/lib/logger/formatter': 'js/zero',
         'Magento_Ui/js/lib/logger/console-logger': 'js/zero',
