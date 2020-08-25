@@ -13,6 +13,12 @@ var config = {
         //'mage/menu': 'js/zero', // Enable if you have a CSS menu
         'mage/translate-inline': 'js/zero',
         'Magento_Captcha/js/model/captcha': 'js/zero',
+        'jquery/jquery-migrate': 'js/zero',
+        'Magento_Ui/js/lib/logger/logger': 'js/zero',
+        'Magento_Ui/js/lib/logger/formatter': 'js/zero',
+        'Magento_Ui/js/lib/logger/console-logger': 'js/zero',
+        'Magento_Ui/js/lib/logger/console-output-handler': 'js/zero',
+        'Magento_Ui/js/lib/logger/entry-factory': 'js/zero',
     },
     skipDataMain: true
 };
