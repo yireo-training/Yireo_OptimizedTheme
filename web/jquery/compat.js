@@ -30,13 +30,13 @@ define([
     'jquery-ui-modules/mouse',
     'jquery-ui-modules/position',
     'jquery-ui-modules/progressbar',
-    //'jquery-ui-modules/resizable',
+    'jquery-ui-modules/resizable',
     'jquery-ui-modules/selectable',
     'jquery-ui-modules/slider',
     'jquery-ui-modules/sortable',
     'jquery-ui-modules/spinner',
     'jquery-ui-modules/tabs',
-    //'jquery-ui-modules/timepicker',
+    'jquery-ui-modules/timepicker',
     'jquery-ui-modules/tooltip',
     'jquery-ui-modules/widget'
 ], function() {
