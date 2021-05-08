@@ -8,5 +8,9 @@
 
     <body>
         <referenceBlock name="yotpo_widget_script" remove="true" />
+
+        <referenceContainer name="before.body.end">
+            <block template="Magento_Theme::test.phtml" />
+        </referenceContainer>
     </body>
 </page>
