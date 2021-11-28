@@ -40,3 +40,6 @@ http://m2.sirius.yr/men/tops-men/jackets-men.html
     - Finish 3.10s
     - DOMContentLoaded: 1.07s
     - Load: 1.89s
+
+# TODO
+- See https://medium.com/@jahvi/how-to-improve-magento-2-page-speed-insights-score-bb37e8946192
